@@ -3,4 +3,9 @@
 
 #include <stdio.h>
 
+class Board {
+    public:
+    private:
+};
+
 #endif /* Board_hpp */
